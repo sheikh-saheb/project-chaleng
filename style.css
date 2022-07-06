@@ -1,0 +1,190 @@
+.link-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 20px 40px;
+    position: relative;
+    left: 43%;
+    right: 50%;
+    top: 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.donate {
+    text-align: center;
+    position: relative;
+    border: 5px;
+}
+
+#people {
+    font-size: 70px;
+    color: antiquewhite;
+}
+
+#paragraph {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.section-header {
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 15%;
+    margin: 0%;
+}
+
+body {
+    font-family: 'Arima', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#on {
+    width: 10%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(168, 168, 168, 0.129);
+    border-left: 4px;
+    font-size: 25px;
+    
+}
+
+#to {
+    width: 10%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 50px grey;
+    border-left: 4px solid blue;
+    border: 3px solid red;
+    background-color: rgb(238, 184, 184);
+    font-size: 25px;
+}
+
+#three {
+    width: 10%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    
+    border-left: 4px;
+    font-size: 25px;
+    background-color: rgba(168, 168, 168, 0.129);
+}
+
+#four {
+    width: 10%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    
+    border-left: 4px;
+    font-size: 25px;
+    background-color: rgba(168, 168, 168, 0.129);
+}
+
+#five {
+    width: 10%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 5px;
+    border-left: 4px;
+    font-size: 25px;
+    background-color: rgba(168, 168, 168, 0.129);
+}
+
+.amount {
+    display: flex;
+    padding-right: 10%;
+}
+
+#gift {
+    font-size: 20px;
+}
+
+#give {
+    font-size: 70px;
+    font-weight: 700
+}
+
+#button {
+    background-color: orange;
+    border: 0;
+    padding: 20px;
+}
+
+.button {
+    text-align: center;
+
+}
+
+#taka-color {
+    color: red;
+}
+
+.shadow-food {
+    width: 30%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    border-left: 7px;
+    padding-top: 100px;
+    background-color: rgba(245, 215, 221, 0.596);
+    background-image: url(donate-today-main/icons/food.png);
+    background-repeat: no-repeat;
+    background-position: 5px 45px;
+}
+
+.shadow-shelter {
+    width: 30%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    border-left: 7px;
+    padding-top: 100px;
+    background-color: rgba(245, 235, 180, 0.699);
+    background-image: url(donate-today-main/icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: 5px 45px;
+}
+
+.shadow-education {
+    width: 30%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    border-left: 7px;
+    padding-top: 100px;
+    background-color: rgba(222, 238, 238, 0.527);
+    background-image: url(donate-today-main/icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 5px 45px;
+}
+
+.plan {
+    display: flex;
+}
+
+.donate-plan {
+    text-align: center;
+    padding: 10%;
+}
+
+.donate-head {
+    font-size: 30px;
+    font-weight: 700;
+}

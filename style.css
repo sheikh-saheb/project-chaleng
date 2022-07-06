@@ -203,3 +203,30 @@ footer p {
     font-weight: 700;
     color: red
 }
+.requred{
+    text-align: center;
+}
+.email-button{
+    text-align: center;
+   border: 10px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   margin-left: 20%;
+   margin-right: 20%;
+   padding: 50px;
+   background-color: bisque;
+   border-radius: 10px;
+}
+#email{
+   border: 1px;
+   padding: 8px;
+   border-radius: 5px;
+   background-color: rgba(195, 195, 195, 0.743);
+   color: rgb(0, 0, 0);
+}
+#subscribe{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: orangered;
+}

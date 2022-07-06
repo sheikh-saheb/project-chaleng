@@ -1,6 +1,6 @@
 .link-button {
     text-decoration: none;
-    background-color: red;
+    background-image: linear-gradient(orange,rgba(254, 102, 47, 0.848), orange);
     padding: 20px 40px;
     position: relative;
     left: 43%;

@@ -1,6 +1,6 @@
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(orange,rgba(254, 102, 47, 0.848), orange);
+    background-image: linear-gradient(orange, rgba(254, 102, 47, 0.848), orange);
     padding: 20px 40px;
     position: relative;
     left: 43%;
@@ -50,7 +50,7 @@ body {
     background-color: rgba(168, 168, 168, 0.129);
     border-left: 4px;
     font-size: 25px;
-    
+
 }
 
 #to {
@@ -72,7 +72,7 @@ body {
     margin: 5%;
     padding: 20px;
     border-radius: 5px;
-    
+
     border-left: 4px;
     font-size: 25px;
     background-color: rgba(168, 168, 168, 0.129);
@@ -84,7 +84,7 @@ body {
     margin: 5%;
     padding: 20px;
     border-radius: 5px;
-    
+
     border-left: 4px;
     font-size: 25px;
     background-color: rgba(168, 168, 168, 0.129);
@@ -187,4 +187,19 @@ body {
 .donate-head {
     font-size: 30px;
     font-weight: 700;
+}
+
+footer p {
+
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    min-height: 100%;
+}
+
+#gmail {
+    text-decoration: none;
+    font-weight: 700;
+    color: red
 }
